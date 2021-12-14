@@ -1,0 +1,25 @@
+{
+  "postlist": [
+    {
+      "id": 0.7990093144635662,
+      "title": "FTX Post for christmas",
+      "desc": "FTX Post desc for christmas",
+      "author": "prakash 0.46681885917223864",
+      "datetime": "13-12-2021"
+    },
+    {
+      "id": 0.2773053636620475,
+      "title": "asdf",
+      "desc": "asdf",
+      "author": "prakash 0.8901990440645458",
+      "datetime": "13-12-2021"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Prakash",
+      "password": "prakash123"
+    }
+  ]
+}
